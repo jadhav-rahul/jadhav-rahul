@@ -50,7 +50,7 @@
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahuljadhav24/)
 - 🌐 [Portfolio](https://your-portfolio.com/)
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+- ✉️ Email: [rj2412003@gmail.com](mailto:rj2412003@gmail.com)
 
 ---
 
