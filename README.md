@@ -48,7 +48,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/rahuljadhav24/])
 - 🌐 [Portfolio](https://your-portfolio.com/)
 - ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
 
