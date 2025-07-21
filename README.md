@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 **Front-end Developer** passionate about crafting interactive & responsive UI
+- 🎯 **Full-Stack Developer** passionate about crafting interactive & responsive UI
 - 🧠 Exploring **C++**, **Python**, and **Data Science**
 - 📊 Love turning **data into insights** and building **intelligent apps**
 - 💡 Always learning new tech and sharpening skills
