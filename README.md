@@ -66,7 +66,7 @@ Applying React.js concepts to build **cart functionality** with:
 
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahuljadhav24/)  
-- 🌐 [Portfolio](https://your-portfolio.com/)  
+- 🌐 [Portfolio](https://rahul-jadhav.vercel.app/)
 - ✉️ Email: [rj2412003@gmail.com](mailto:rj2412003@gmail.com)  
 
 ---
